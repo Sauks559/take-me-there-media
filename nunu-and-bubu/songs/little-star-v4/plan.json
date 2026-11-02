@@ -1,0 +1,209 @@
+[
+ {
+  "scene": 1,
+  "file": "01-nunu.wav",
+  "start": 0.0,
+  "end": 9.12,
+  "frames": 228,
+  "changed": false,
+  "pad_samples": 941
+ },
+ {
+  "scene": 2,
+  "file": "02-bubu.wav",
+  "start": 9.12,
+  "end": 11.32,
+  "frames": 55,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 3,
+  "file": "03-nunu.wav",
+  "start": 11.32,
+  "end": 13.52,
+  "frames": 55,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 4,
+  "file": "04-bubu.wav",
+  "start": 13.52,
+  "end": 15.6,
+  "frames": 52,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 5,
+  "file": "05-nunu.wav",
+  "start": 15.6,
+  "end": 24.48,
+  "frames": 222,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 6,
+  "file": "06-nunu.wav",
+  "start": 24.48,
+  "end": 29.12,
+  "frames": 116,
+  "changed": false,
+  "pad_samples": 941
+ },
+ {
+  "scene": 7,
+  "file": "07-bubu.wav",
+  "start": 29.12,
+  "end": 33.56,
+  "frames": 111,
+  "changed": false,
+  "pad_samples": 941
+ },
+ {
+  "scene": 8,
+  "file": "08-nunu.wav",
+  "start": 33.56,
+  "end": 38.24,
+  "frames": 117,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 9,
+  "file": "09-bubu.wav",
+  "start": 38.24,
+  "end": 51.4,
+  "frames": 329,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 10,
+  "file": "10-nunu.wav",
+  "start": 51.4,
+  "end": 55.76,
+  "frames": 109,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 11,
+  "file": "11-bubu.wav",
+  "start": 55.76,
+  "end": 60.24,
+  "frames": 112,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 12,
+  "file": "12-nunu.wav",
+  "start": 60.24,
+  "end": 64.76,
+  "frames": 113,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 13,
+  "file": "13-nunu.wav",
+  "start": 64.76,
+  "end": 66.8,
+  "frames": 51,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 14,
+  "file": "14-bubu.wav",
+  "start": 66.8,
+  "end": 69.12,
+  "frames": 58,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 15,
+  "file": "15-nunu.wav",
+  "start": 69.12,
+  "end": 70.24,
+  "frames": 28,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 16,
+  "file": "16-bubu.wav",
+  "start": 70.24,
+  "end": 71.28,
+  "frames": 26,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 17,
+  "file": "17-nunu.wav",
+  "start": 71.28,
+  "end": 73.88,
+  "frames": 65,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 18,
+  "file": "18-bubu.wav",
+  "start": 73.88,
+  "end": 78.04,
+  "frames": 104,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 19,
+  "file": "19-nunu.wav",
+  "start": 78.04,
+  "end": 80.2,
+  "frames": 54,
+  "changed": false,
+  "pad_samples": 941
+ },
+ {
+  "scene": 20,
+  "file": "20-bubu.wav",
+  "start": 80.2,
+  "end": 82.76,
+  "frames": 64,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 21,
+  "file": "21-nunu.wav",
+  "start": 82.76,
+  "end": 84.48,
+  "frames": 43,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 22,
+  "file": "22-bubu.wav",
+  "start": 84.48,
+  "end": 87.92,
+  "frames": 86,
+  "changed": true,
+  "pad_samples": 941
+ },
+ {
+  "scene": 23,
+  "file": "23-nunu.wav",
+  "start": 87.92,
+  "end": 92.4,
+  "frames": 112,
+  "changed": true,
+  "pad_samples": 941
+ }
+]
