@@ -1,0 +1,227 @@
+[
+ {
+  "file": "01-nunu.wav",
+  "start": 0.0,
+  "end": 6.32,
+  "dur": 6.32,
+  "singer": "nunu",
+  "label": "Intro music",
+  "silent": true
+ },
+ {
+  "file": "02-nunu.wav",
+  "start": 6.32,
+  "end": 9.12,
+  "dur": 2.8,
+  "singer": "nunu",
+  "label": "Hello friends, it's Nunu!",
+  "silent": false
+ },
+ {
+  "file": "03-bubu.wav",
+  "start": 9.12,
+  "end": 11.31,
+  "dur": 2.19,
+  "singer": "bubu",
+  "label": "And it's Bubu!",
+  "silent": false
+ },
+ {
+  "file": "04-nunu.wav",
+  "start": 11.31,
+  "end": 13.5,
+  "dur": 2.19,
+  "singer": "nunu",
+  "label": "Look up high, what can you see?",
+  "silent": false
+ },
+ {
+  "file": "05-bubu.wav",
+  "start": 13.5,
+  "end": 15.58,
+  "dur": 2.08,
+  "singer": "bubu",
+  "label": "A little star for you and me!",
+  "silent": false
+ },
+ {
+  "file": "06-nunu.wav",
+  "start": 15.58,
+  "end": 24.48,
+  "dur": 8.9,
+  "singer": "nunu",
+  "label": "Verse 1",
+  "silent": false
+ },
+ {
+  "file": "07-nunu.wav",
+  "start": 24.48,
+  "end": 29.12,
+  "dur": 4.64,
+  "singer": "nunu",
+  "label": "Chorus 1: Sparkle sparkle / Dancing",
+  "silent": false
+ },
+ {
+  "file": "08-bubu.wav",
+  "start": 29.12,
+  "end": 33.56,
+  "dur": 4.44,
+  "singer": "bubu",
+  "label": "Chorus 1: Way up high / Little star",
+  "silent": false
+ },
+ {
+  "file": "09-nunu.wav",
+  "start": 33.56,
+  "end": 38.22,
+  "dur": 4.66,
+  "singer": "nunu",
+  "label": "Chorus 1: Clap clap / Sparkle all around",
+  "silent": false
+ },
+ {
+  "file": "10-bubu.wav",
+  "start": 38.22,
+  "end": 42.24,
+  "dur": 4.02,
+  "singer": "bubu",
+  "label": "Music break",
+  "silent": true
+ },
+ {
+  "file": "11-bubu.wav",
+  "start": 42.24,
+  "end": 51.39,
+  "dur": 9.15,
+  "singer": "bubu",
+  "label": "Verse 2",
+  "silent": false
+ },
+ {
+  "file": "12-nunu.wav",
+  "start": 51.39,
+  "end": 55.76,
+  "dur": 4.37,
+  "singer": "nunu",
+  "label": "Chorus 2: Sparkle sparkle / Dancing",
+  "silent": false
+ },
+ {
+  "file": "13-bubu.wav",
+  "start": 55.76,
+  "end": 60.22,
+  "dur": 4.46,
+  "singer": "bubu",
+  "label": "Chorus 2: Way up high / Little star",
+  "silent": false
+ },
+ {
+  "file": "14-nunu.wav",
+  "start": 60.22,
+  "end": 64.73,
+  "dur": 4.51,
+  "singer": "nunu",
+  "label": "Chorus 2: Clap clap / Sparkle all around",
+  "silent": false
+ },
+ {
+  "file": "15-nunu.wav",
+  "start": 64.73,
+  "end": 66.8,
+  "dur": 2.07,
+  "singer": "nunu",
+  "label": "Star, star, are you there?",
+  "silent": false
+ },
+ {
+  "file": "16-bubu.wav",
+  "start": 66.8,
+  "end": 69.1,
+  "dur": 2.3,
+  "singer": "bubu",
+  "label": "Shining, shining everywhere!",
+  "silent": false
+ },
+ {
+  "file": "17-nunu.wav",
+  "start": 69.1,
+  "end": 70.23,
+  "dur": 1.13,
+  "singer": "nunu",
+  "label": "Blink once!",
+  "silent": false
+ },
+ {
+  "file": "18-bubu.wav",
+  "start": 70.23,
+  "end": 71.09,
+  "dur": 0.86,
+  "singer": "bubu",
+  "label": "Blink twice!",
+  "silent": false
+ },
+ {
+  "file": "19-nunu.wav",
+  "start": 71.09,
+  "end": 73.87,
+  "dur": 2.78,
+  "singer": "nunu",
+  "label": "Little star, you're oh so nice!",
+  "silent": false
+ },
+ {
+  "file": "20-bubu.wav",
+  "start": 73.87,
+  "end": 78.04,
+  "dur": 4.17,
+  "singer": "bubu",
+  "label": "Final chorus: Sparkle sparkle / Dancing",
+  "silent": false
+ },
+ {
+  "file": "21-nunu.wav",
+  "start": 78.04,
+  "end": 80.2,
+  "dur": 2.16,
+  "singer": "nunu",
+  "label": "Final chorus: Sparkle near and far",
+  "silent": false
+ },
+ {
+  "file": "22-bubu.wav",
+  "start": 80.2,
+  "end": 82.74,
+  "dur": 2.54,
+  "singer": "bubu",
+  "label": "Final chorus: Nunu, Bubu, here we are!",
+  "silent": false
+ },
+ {
+  "file": "23-nunu.wav",
+  "start": 82.74,
+  "end": 84.46,
+  "dur": 1.72,
+  "singer": "nunu",
+  "label": "Goodnight, star! (Goodnight!)",
+  "silent": false
+ },
+ {
+  "file": "24-bubu.wav",
+  "start": 84.46,
+  "end": 87.9,
+  "dur": 3.44,
+  "singer": "bubu",
+  "label": "See you tomorrow! (Bye-bye!)",
+  "silent": false
+ },
+ {
+  "file": "25-nunu.wav",
+  "start": 87.9,
+  "end": 92.401,
+  "dur": 4.501,
+  "singer": "nunu",
+  "label": "Ending music",
+  "silent": true
+ }
+]
