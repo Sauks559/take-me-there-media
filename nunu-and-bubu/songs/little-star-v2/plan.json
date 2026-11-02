@@ -153,19 +153,19 @@
   "silent": false
  },
  {
-  "file": "18-bubu.wav",
+  "file": "18-bubub.wav",
   "start": 70.23,
-  "end": 71.09,
-  "dur": 0.86,
+  "end": 71.25,
+  "dur": 1.02,
   "singer": "bubu",
   "label": "Blink twice!",
   "silent": false
  },
  {
-  "file": "19-nunu.wav",
-  "start": 71.09,
+  "file": "19-nunub.wav",
+  "start": 71.25,
   "end": 73.87,
-  "dur": 2.78,
+  "dur": 2.62,
   "singer": "nunu",
   "label": "Little star, you're oh so nice!",
   "silent": false
